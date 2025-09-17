@@ -1,0 +1,5 @@
+pandas
+bertopic
+sentence-transformers
+scikit-learn
+nltk
