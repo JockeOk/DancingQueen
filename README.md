@@ -1,2 +1,2 @@
-# DancingQueen
-Repository for Dancing Queen project
+# Dancing Queen
+This repository hosts the Dancing Queen project.
